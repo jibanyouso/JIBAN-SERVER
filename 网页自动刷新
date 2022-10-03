@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>网页自动刷新</title>
+    <meta http-equiv="refresh" content="5">
+    <!--5为5秒后自动刷新-->
+</head>
+<body>
+<p>我爱学习</p>
+<p>学习爱我</p>
+<p>沉迷学习</p>
+<p>无法自拔</p>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<script language="JavaScript">
+        function loopy() {
+            var sWord="";
+            while(sWord!="login"){
+                sWord=prompt("请输入你的登录密码");
+                alert("登陆成功!");
+            }
+            loopy();
+        }
+    </script>
